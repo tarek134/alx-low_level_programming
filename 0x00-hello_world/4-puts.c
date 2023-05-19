@@ -1,12 +1,16 @@
 #include <stdio.h>
 
 /**
- *i make a type one line using puts function 
- *and make a return 0  that meaning succssful */
+*main - Entry point
+*
+*Description: A c progrme that prints with puts function
+*
+*Return: Alawys 0 (Success)
+*/
 
 int main(void)
 {
-	
-	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+        puts("\"Programming is like building a multilingual puzzle");
+        return (0);
 }
+
