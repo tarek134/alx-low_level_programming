@@ -1,13 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	puts("Programming");
-	puts("is");
-	puts("like");
-	puts("building");
-	puts("a");
-	puts("multilingual");
-	puts("puzzle");
-	puts("\n");
+	puts("\""Programming is like building a multilingual puzzle")
 	return (0);
 }
